@@ -1,22 +1,11 @@
 # E-commerce wishlistApp - Backend
 
-Esta es una API RESTful para una tienda en línea, construida con Node.js, Express y MongoDB. Permite a los usuarios buscar productos, agregar productos a una lista de deseos.
+Esta es una API RESTful para una tienda en línea, construida con Node.js, Express y MongoDB. Permite a los usuarios ver productos, agregar productos a una lista de deseos.
 
 ## Requisitos Previos
 
 - [Node.js](https://nodejs.org/) (v14 o superior)
 - [MongoDB](https://www.mongodb.com/) 
-
-
-## Características
-
-- Visualización de productos musicales: Los usuarios pueden explorar productos con información detallada como nombre, categoría, precio y descripción.
-
-- Gestión de lista de deseos: Los usuarios pueden agregar y eliminar productos de su lista de deseos.
-
-
-
-- Manejo de estado con Redux: La aplicación usa Redux para gestionar el estado global.
 
 
 
